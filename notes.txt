@@ -1,0 +1,8 @@
+Changed LocalDate type in Reservation class to Date type. RB 11/26/2018
+
+Altered the calculatePrice() function to use Date objects instead of LocalDate objects. RB 11/26/2018
+
+Added to string functions for Room, Customer, And reservation objects.
+
+Added Server and ClientHandler classes and applied code from Application class to ClientHandler to allow server to
+    interact with client.  CG 11/30/18
